@@ -10,3 +10,10 @@ This data contains a large variety of information on players and their
   attributes such as form, total points, and cost at the current gameweek.
   
   This data, therefore, is in the **ideal format** to create Fantasy Premier League bots (for example that use an ML algorithm and a linear programming solver) to return the best possible team to pick for each gameweek (and therefore the transfers to make), thereby fully automating the decision making process in Fantasy Premier League. This single-function package simply supplies the required data for such a task.
+
+# Usage
+
+```
+from pyFPLdata import FPLdata
+FPLdata()
+``` 
