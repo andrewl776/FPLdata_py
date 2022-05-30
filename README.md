@@ -11,6 +11,8 @@ This data contains a large variety of information on players and their
   
   This data, therefore, is in the **ideal format** to create Fantasy Premier League bots (for example that use an ML algorithm and a linear programming solver) to return the best possible team to pick for each gameweek (and therefore the transfers to make), thereby fully automating the decision making process in Fantasy Premier League. This single-function package simply supplies the required data for such a task.
 
+The data is read in from a daily-updating repository (`fplmodels`), and so you will require an internet connection. This ensures that the latest dataset is always obtained, without users needing to install updates to the package.
+
 # Usage
 
 ```
