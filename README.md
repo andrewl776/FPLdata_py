@@ -1,3 +1,9 @@
+pyFPLdata
+================
+
+![PyPI](https://img.shields.io/pypi/v/pyFPLdata?label=pypi%20package)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pyFPLdata)
+
 Introduction
 ================
 
