@@ -1,4 +1,5 @@
-# Introduction
+Introduction
+================
 
 This data contains a large variety of information on players and their
   current attributes on Fantasy Premier League
@@ -13,7 +14,8 @@ This data contains a large variety of information on players and their
 
 The data is read in from a daily-updating repository (`fplmodels`), and so you will require an internet connection. This ensures that the latest dataset is always obtained, without users needing to install updates to the package.
 
-# Usage
+Usage
+================
 
 ```
 from pyFPLdata import FPLdata
